@@ -1,0 +1,32 @@
+{
+    "id": "hyfiremc",
+    "name": "HyFireMC",
+    "website": "https://hyfiremc.rf.gd/",
+    "addresses": [
+        "g2.scheggiacloud.net:25581"
+    ],
+    "primaryAddress": "g2.scheggiacloud.net:25581",
+    "primaryColor": "#0bf3ff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "gameTypes": [
+        "Survival",
+        "RolePlay",
+        "KitPvP",
+        "MiniGames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/rnQUb4MrtU",
+        "youtube": "UC02ga2SUFKB0hbOtubxKaqQ",
+        "telegram": "hyfiremc"
+    }
+}
